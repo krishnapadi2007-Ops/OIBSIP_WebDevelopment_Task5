@@ -1,35 +1,20 @@
-# OIBSIP_WebDevelopment_Task5
-# Pizza Delivery Application
+# Portfolio Website
 
 ## Objective
-Create a full-stack pizza ordering application using React.js, Node.js, Express.js, and MongoDB with secure authentication, pizza customization, inventory management, order tracking, and online payment integration.
+Create a personal portfolio website to showcase skills, projects, achievements, and contact information using HTML, CSS, and JavaScript.
 
 ## Tools Used
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Razorpay
-- JWT Authentication
-- Nodemailer
+- HTML
+- CSS
+- JavaScript
 - VS Code
 
 ## Features
-- User Registration and Login
-- Admin Login and Dashboard
-- Email Verification
-- Forgot Password System
-- Custom Pizza Builder
-- Pizza Base Selection
-- Sauce Selection
-- Cheese Selection
-- Veggie Selection
-- Razorpay Payment Integration
-- Inventory Management
-- Stock Monitoring
-- Low Stock Email Notifications
-- Order Status Tracking
-- Real-Time Dashboard Updates
+- About Me Section
+- Skills Section
+- Projects Showcase
+- Contact Information
+- Responsive Design
 
 ## Outcome
-Successfully developed a full-stack pizza ordering application that allows users to customize and order pizzas online while enabling administrators to manage inventory, process orders, monitor stock levels, and update order statuses efficiently.
+Successfully developed a personal portfolio website that showcases skills, projects, and achievements while demonstrating front-end web development capabilities.
